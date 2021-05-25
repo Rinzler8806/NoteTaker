@@ -15,3 +15,6 @@ You can do the same below where it says "Note Text".
 Once you have finished adding your notes go ahead and click the floppy disk in the top right of the screen to save your notes. These notes will then appear on the left of the screen.
 
 Enjoy!
+
+
+![](demoNoteSS.png)

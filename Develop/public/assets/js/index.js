@@ -6,7 +6,7 @@ const $noteList = $(".list-container .list-group");
 
 // activeNote is used to keep track of the note in the textarea
 let activeNote = {};
-let id=0
+let id = 0
 
 // A function for getting all notes from the db
 const getNotes = () => {
